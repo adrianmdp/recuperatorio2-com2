@@ -1,0 +1,6 @@
+Segundo parcial recuperatorio.
+
+- Se provee la estructura incial para resolver el registro de usuario. 
+- Lo que se da no puede ser alterado.
+- Se tiene que entregar en menos de una hora.
+- Una vez entregado o cumplido el plazo, se hara una breve defensa oral.
